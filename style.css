@@ -1,0 +1,7 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+div#f12:hover {
+    cursor: pointer;
+}
